@@ -1,9 +1,9 @@
 #  Insurance Risk & Claims Analysis (Power BI Dashboard)
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 
-### 📊 Claims Analysis Dashboard
-![Claims Dashboard](./images/claims_dashboard.png)
+### Claims Analysis Dashboard
+![Claims Dashboard](https://github.com/keshav-01-karn/Insurance-risk-claims-analysis/blob/main/Claims%20Dashboard.png)
 
 🔗 [View Full Dashboard (PDF)](https://github.com/keshav-01-karn/Insurance-risk-claims-analysis/blob/main/INSURANCE%20RISK%20%26%20CLAIMS%20ANALYSIS%20.pdf)
 
@@ -38,16 +38,6 @@ The goal of this project is to enable data-driven decision-making by:
 | **Average Claim Frequency (0.5)** | Average number of claims per customer |
 | **Average Claim Amount ($5.0K)** | Average severity of claims |
 | **Gender-wise Distribution** | Customer segmentation by gender |
-
-
-
----
-
-##  Dashboard Preview
-
-![Dashboard Preview](./dashboard.png)
-
-> *(Add your Power BI dashboard screenshot as `dashboard.png` in the repo)*
 
 ---
 
