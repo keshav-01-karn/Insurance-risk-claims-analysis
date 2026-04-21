@@ -5,10 +5,7 @@
 ### 📊 Claims Analysis Dashboard
 ![Claims Dashboard](./images/claims_dashboard.png)
 
-### 📊 Policies Analysis Dashboard
-![Policies Dashboard](./images/policies_dashboard.png)
-
-🔗 [View Full Dashboard (PDF)](./INSURANCE RISK & CLAIMS ANALYSIS.pdf)
+🔗 [View Full Dashboard (PDF)](https://github.com/keshav-01-karn/Insurance-risk-claims-analysis/blob/main/INSURANCE%20RISK%20%26%20CLAIMS%20ANALYSIS%20.pdf)
 
 
 ## Problem Statement
