@@ -1,5 +1,16 @@
 #  Insurance Risk & Claims Analysis (Power BI Dashboard)
 
+## 📈 Dashboard Preview
+
+### 📊 Claims Analysis Dashboard
+![Claims Dashboard](./images/claims_dashboard.png)
+
+### 📊 Policies Analysis Dashboard
+![Policies Dashboard](./images/policies_dashboard.png)
+
+🔗 [View Full Dashboard (PDF)](./INSURANCE RISK & CLAIMS ANALYSIS.pdf)
+
+
 ## Problem Statement
 
 Insurance companies deal with large volumes of policyholder and claims data, but extracting meaningful insights from this data is crucial for **risk assessment, pricing strategies, and fraud detection**.
