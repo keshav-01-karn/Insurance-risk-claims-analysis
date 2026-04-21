@@ -31,7 +31,7 @@ The goal of this project is to enable data-driven decision-making by:
 | **Average Claim Amount ($5.0K)** | Average severity of claims |
 | **Gender-wise Distribution** | Customer segmentation by gender |
 
-> These KPIs form the foundation for evaluating insurance performance and risk exposure. :contentReference[oaicite:0]{index=0}
+
 
 ---
 
