@@ -78,7 +78,6 @@ Based on dashboard analysis:
 -  **Certain car brands (e.g., Ford, Chevrolet)** have higher claim values, possibly due to usage volume or repair cost  
 -  **Balanced gender distribution (~50-50)** suggests equal market penetration  
 
-These insights align with real-world insurance behavior patterns derived from the dataset. :contentReference[oaicite:1]{index=1}
 
 ---
 
